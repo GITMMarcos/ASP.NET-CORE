@@ -1,0 +1,11 @@
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\bin\Debug\netcoreapp2.1\AppConsoleNetCore.deps.json
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\bin\Debug\netcoreapp2.1\AppConsoleNetCore.runtimeconfig.json
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\bin\Debug\netcoreapp2.1\AppConsoleNetCore.runtimeconfig.dev.json
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\bin\Debug\netcoreapp2.1\AppConsoleNetCore.dll
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\bin\Debug\netcoreapp2.1\AppConsoleNetCore.pdb
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\obj\Debug\netcoreapp2.1\AppConsoleNetCore.csprojAssemblyReference.cache
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\obj\Debug\netcoreapp2.1\AppConsoleNetCore.csproj.CoreCompileInputs.cache
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\obj\Debug\netcoreapp2.1\AppConsoleNetCore.AssemblyInfoInputs.cache
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\obj\Debug\netcoreapp2.1\AppConsoleNetCore.AssemblyInfo.cs
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\obj\Debug\netcoreapp2.1\AppConsoleNetCore.dll
+C:\Users\MMarcos\Desktop\Curso ASP.NET CORE\Aula01\AppConsoleNetCore\AppConsoleNetCore\obj\Debug\netcoreapp2.1\AppConsoleNetCore.pdb
